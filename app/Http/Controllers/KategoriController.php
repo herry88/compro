@@ -17,4 +17,14 @@ class KategoriController extends Controller
         );
         return view('admin.kategori.index', $data);
     }
+    //creaate
+    public function create()
+    {
+
+    }
+    //store
+    public function store()
+    {
+
+    }
 }
